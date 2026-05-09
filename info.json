@@ -16,7 +16,7 @@
             "windows"
         ],
         "architecture": [
-            "x64"
+            "x64", "x86"
         ]
     }
 }
