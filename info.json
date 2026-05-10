@@ -1,6 +1,5 @@
 {
     "name": "BofRoast",
-    "description": "Requests a Kerberos service ticket (AP-REQ) for a given Service Principal Name (SPN) and outputs it base64 encoded, ready to be converted to hashcat format for offline cracking via Kerberoasting.",
     "uuid": "f0a1b2c3-d4e5-4678-9012-3456789abcde",
     "command": "kerberoast",
     "type": "bof",
